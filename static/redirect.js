@@ -1,0 +1,1 @@
+window.location.href = '/press-release-20211906.pdf'
